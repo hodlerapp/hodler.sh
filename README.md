@@ -1,2 +1,2 @@
-# hodler
+# hodler.sh
 Hodler – Crypto Portfolio
