@@ -102,4 +102,4 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: hodlerapp@gmail.com, andrew@hodler.sh, steve@hodler.sh</li></ul>
+        <li>By email: hodlerapp@gmail.com, andrew@hodler.sh</li></ul>
